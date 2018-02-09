@@ -1,5 +1,9 @@
 # homework-3-case-study
 
+Name: Alexis Ward
+
+PennKey: aleward
+
 # Assignment Description
 
 For this assignment, you will re-create various animations demonstrating a combination of toolbox functions and the rendering techniques you've already learned. The motivation for this is to help you become more familiar with toolbox functions as well as give you experience in producing a desired aesthetic.
@@ -25,10 +29,13 @@ If you'd like to implement any animations that are not listed below, you can mak
 You must submit a writeup for this assignment by 11:59 PM on Thursday, Feb. 8th to canvas *as a .pdf or .txt*. If your projects are hosted on Github you should copy your writeup to a readme.
 
 Writeups must include, for each scene:
-* A link to the online implementation
-* A link to the reference animation
-* *Detailed* description of techniques used to emulate the reference, for both motion and rendering
-* If you implement extra credit, explain what it is and how to toggle it
+* A link to the online implementation : here
+* A link to the reference animation :
+<img src="http://i.imgur.com/0kvtMLE.gif" width="400px" />
+
+* *Detailed* description of techniques used to emulate the reference, for both motion and rendering:
+
+I shaped the duck using SDFs with the base code from HW2. I utilized several IQ functions as a foundation for my shapes, and transformed them (primarily with sin functions) for both aesthetic and motion. I colored the individual duck components based on the final signed distance for each pixel (determined by the four booleans I set up, which are checked each SDF iteration). I then colored outlines based on lambert-induced shading.
 
 
 # Evaluation
