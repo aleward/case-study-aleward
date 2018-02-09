@@ -29,7 +29,7 @@ If you'd like to implement any animations that are not listed below, you can mak
 You must submit a writeup for this assignment by 11:59 PM on Thursday, Feb. 8th to canvas *as a .pdf or .txt*. If your projects are hosted on Github you should copy your writeup to a readme.
 
 Writeups must include, for each scene:
-* A link to the online implementation : here
+* A link to the online implementation : [here](https://aleward.github.io/case-study-aleward/)
 * A link to the reference animation :
 <img src="http://i.imgur.com/0kvtMLE.gif" width="400px" />
 
